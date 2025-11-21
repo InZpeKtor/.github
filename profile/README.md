@@ -52,6 +52,7 @@ All checks and interactions are designed to be **cryptographically verifiable**.
 
 ---
 
+
 ## 3. Architecture & Development Progress  
 
 We are now actively shaping the architecture of inZpeKtor, building the smart contracts, and implementing the first ZK-based features.
